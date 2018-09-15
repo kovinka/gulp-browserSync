@@ -1,10 +1,15 @@
 # Browsersync + Gulp.js
-### Install
-
+### Prerequirement
+- installed Node.js 8+
+### Install gulp.js globally
+```sh
+npm install gulp-cli -g
+```
+### Clone repository
 ```sh
 $ git clone https://github.com/kovinka/gulp-server.git
 $ cd gulp-server
-$ npm i
+$ npm install
 ```
 ### Run server
 ```sh
